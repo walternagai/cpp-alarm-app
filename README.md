@@ -1,13 +1,7 @@
-# cpp-say-hello
+# cpp-alarm-app
 
-Este é o primeiro programa em linguagem C/C++ que imprime uma mensagem quando o programa é executado.
+Nos dias atuais, um app de alarme é encontrado em qualquer smartphone e serve para alertar o usuário de algum compromisso.
 
-Note que existe um comando nomeado *cout* que recebe uma mensagem entre aspas. 
+A partir de um horário atual ou inicial, deve-se colocar o horário pretendido para acionar o alarme. O app calcula a diferença de tempo e mostra ao usuário como uma notificação.
 
-Essa mensagem entre aspas é direcionada por duas setas para o comando *cout*.
-
-A partir desse código altere o texto do *cout* para que a mensagem **Seja bem-vindo a ECO!** seja apresentada.
-
-Divirta-se! Fique tranquilo! Fique bem!
-
-Prof. Walter.
+Escreva um programa em linguagem C/C++ que simule o funcionamento de um app de alarme. O programa deve ler um horário inicial, um horário de alarme, calcular o tempo para acionar o alarme e mostrar esse tempo calculado.
