@@ -8,6 +8,8 @@ O programa deve ler um horário inicial, um horário de alarme, calcular o tempo
 
 Os horários a serem lidos obedecem o padrão de 0h a 23h e 0min a 59min.
 
+OBSERVAÇÃO: Faça esse programa no Replit ou em outro editor com compilador C/C++ (Codeblocks, DevC++, Cpp.sh ou OnlineGDB) de sua escolha. Atualize somente o main.cpp no GitHub para que os testes sejam realizados.
+
 # Exemplos
 
 * Horário inicial: 5 15; Horário de alarme: 7 0; A mensagem mostrada deve ser: 1 hora(s) e 45 minuto(s).
