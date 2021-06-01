@@ -6,10 +6,12 @@ Escreva um programa em linguagem C/C++ que simule o funcionamento de um app de a
 
 O programa deve ler um horário inicial, um horário de alarme, calcular o tempo para acionar o alarme e mostrar esse tempo calculado.
 
+Os horários a serem lidos obedecem o padrão de 0h a 23h e 0min a 59min.
+
 # Exemplos
 
 * Horário inicial: 5 15; Horário de alarme: 7 0; A mensagem mostrada deve ser: 1 hora(s) e 45 minuto(s).
-* Horário inicial: 8 30; Horário de alarme: 12 30; A mensagem mostrada deve ser: 4 hora(s) e 0 minuto(s).
-* Horário inicial: 12 15; Horário de alarme: 19 0; A mensagem mostrada deve ser: 6 hora(s) e 45 minuto(s).
+* Horário inicial: 0 -1; A mensagem mostrada deve ser: Horario inicial invalido.
+* Horário inicial: 12 15; Horário de alarme: 24 0; A mensagem mostrada deve ser: Horario de alarme invalido.
 * Horário inicial: 19 0; Horário de alarme: 6 30; A mensagem mostrada deve ser: 11 hora(s) e 30 minuto(s).
 * Horário inicial: 0 1; Horário de alarme: 23 59; A mensagem mostrada deve ser: 23 hora(s) e 58 minuto(s).
