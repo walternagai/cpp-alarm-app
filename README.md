@@ -11,9 +11,11 @@ Os horários a serem lidos obedecem o padrão de 0h a 23h e 0min a 59min.
 # Exemplos
 
 TESTE #1
+```
   Horário inicial: 5 15
   Horário de alarme: 7 0
   Alarme daqui a 1 hora(s) e 45 minuto(s).
+```
 
 TESTE #2
   Horário inicial: 0 -1
