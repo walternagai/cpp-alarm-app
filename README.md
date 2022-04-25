@@ -8,14 +8,24 @@ O programa deve ler um horário inicial, um horário de alarme, calcular o tempo
 
 Os horários a serem lidos obedecem o padrão de 0h a 23h e 0min a 59min.
 
-**OBSERVAÇÃO 1**: Faça esse programa no Replit ou em outro editor com compilador C/C++ (Codeblocks, DevC++, Cpp.sh ou OnlineGDB) de sua escolha. Atualize somente o main.cpp no GitHub para que os testes sejam realizados.
-
-**OBSERVAÇÃO 2**: O repositório criado estará na organização GitHub [https://github.com/p7-m3-ecoi02-2021-1](https://github.com/p7-m3-ecoi02-2021-1) ou [https://github.com/p8-m3-ecoi02-2021-1](https://github.com/p8-m3-ecoi02-2021-1), dependendo de sua turma prática.
-
 # Exemplos
 
-* Horário inicial: 5 15; Horário de alarme: 7 0; A mensagem mostrada deve ser: 1 hora(s) e 45 minuto(s).
-* Horário inicial: 0 -1; A mensagem mostrada deve ser: Horario inicial invalido.
-* Horário inicial: 12 15; Horário de alarme: 24 0; A mensagem mostrada deve ser: Horario de alarme invalido.
-* Horário inicial: 19 0; Horário de alarme: 6 30; A mensagem mostrada deve ser: 11 hora(s) e 30 minuto(s).
-* Horário inicial: 0 1; Horário de alarme: 23 59; A mensagem mostrada deve ser: 23 hora(s) e 58 minuto(s).
+* Teste #1
+  Horário inicial: 5 15
+  Horário de alarme: 7 0
+  Alarme daqui a 1 hora(s) e 45 minuto(s).
+* Teste #2
+  Horário inicial: 0 -1
+  Horario inicial invalido.
+* Teste #3 
+  Horário inicial: 12 15
+  Horário de alarme: 24 0
+  Horario de alarme invalido.
+* Teste #4
+  Horário inicial: 19 0
+  Horário de alarme: 6 30
+  Alarme daqui a 11 hora(s) e 30 minuto(s).
+* Teste #5
+  Horário inicial: 0 1
+  Horário de alarme: 23 59
+  Alarme daqui a 23 hora(s) e 58 minuto(s).
